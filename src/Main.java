@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        String change = "Строка, которую надо поменять";
+        String change = "Я настроила GitHub";
         System.out.println("Моя строка: " + change);
     }
 }
