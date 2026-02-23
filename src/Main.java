@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        String change = "Я сижу дома";
+        String change = "Иногда я думаю";
         System.out.println("Моя строка: " + change);
     }
 }
